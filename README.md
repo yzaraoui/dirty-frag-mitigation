@@ -88,7 +88,7 @@ When disabled, the script:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dirty-frag-mitigation.git
+git clone https://github.com/yzaraoui/dirty-frag-mitigation.git
 cd dirty-frag-mitigation
 ```
 
